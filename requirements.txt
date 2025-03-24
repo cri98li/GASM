@@ -1,0 +1,11 @@
+osmnx
+pandas
+matplotlib
+tqdm
+folium
+mapclassify
+CaGeo
+geopandas
+pyts
+pyahocorasick
+h5py
